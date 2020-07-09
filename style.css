@@ -1,0 +1,107 @@
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@800&display=swap');
+body{
+    height: 100%;
+    min-height:100% ;
+}
+.image{
+    width: 450px ;
+    height: 350px;
+}
+.titleH{
+    position: relative;
+width: 150px;
+height: 25px;
+left: 77px;
+top: 40px;
+
+font-family: 'Inconsolata';
+font-style: normal;
+font-weight: bold;
+font-size: 25px;
+line-height: 25px;
+letter-spacing: -0.08em;
+text-transform: uppercase;
+
+color: #333333;
+}
+
+.imgcon{
+    position: absolute;
+left: 5.35%;
+right: 57.21%;
+top: 25%;
+bottom: 34.03%;
+}
+.content{
+    top: 120px;
+    bottom: 300px;
+    position: absolute;
+}
+a{
+    text-decoration: none;
+}
+
+.news{
+    
+position: absolute;
+
+font-family: 'Inconsolata';
+font-style: normal;
+font-weight: bold;
+font-size: 60px;
+line-height: 60px;
+letter-spacing: -0.035em;
+
+/* Gray 1 */
+
+color: #333333;
+}
+.par{
+    position: absolute;
+width: 381px;
+height: 108px;
+left: 50px;
+top: 170px;
+
+font-family: 'Space Mono';
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 30px;
+letter-spacing: -0.035em;
+
+/* Gray 2 */
+
+color: #4F4F4F;
+}
+
+.but{
+    position: absolute;
+width: 182px;
+height: 50px;
+left: 50px;
+top: 290px;
+
+/* Gray 1 */
+background-color: #333333;
+border-color: #333333;
+}
+.footer{
+    clear: both;
+    position: relative;
+    height: 20px;
+    margin-top: 550px;
+    text-align: center;
+}
+.footer span{
+    font-family: Montserrat;
+font-style: normal;
+font-weight: 600;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+
+
+color: #333333;
+}
